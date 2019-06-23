@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="error_message_text_size">54sp</dimen>
+    <dimen name="error_message_margin">50dp</dimen>
+    <dimen name="retry_button_top_margin">44dp</dimen>
+    <dimen name="margin_top_temp">56dp</dimen>
+    <dimen name="temp_text_size">96sp</dimen>
+    <dimen name="location_margin_top">20dp</dimen>
+    <dimen name="location_margin_bottom">62dp</dimen>
+    <dimen name="location_textSize">36sp</dimen>
+    <dimen name="loading_spinner_size">96dp</dimen>
+    <dimen name="margin_start_end_weather_item">16dp</dimen>
+    <dimen name="weather_item_text_size">16sp</dimen>
+</resources>

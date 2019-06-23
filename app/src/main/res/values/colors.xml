@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="error_screen_background_color">#E85959</color>
+    <color name="retry_button_background_color">#4a4a4a</color>
+    <color name="temp_text_color">#2A2A2A</color>
+    <color name="location_textColor">#556799</color>
+    <color name="weather_item_textColor">#2a2a2a</color>
+</resources>
