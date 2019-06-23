@@ -7,6 +7,7 @@
 
     <fragment
         android:id="@+id/weather_fragment"
+
         android:name="com.example.weatherapp.weatherinfo.WeatherFragment"
         tools:layout="@layout/fragment_weather">
         <action
@@ -14,14 +15,15 @@
             app:destination="@id/error_fragment" />
     </fragment>
 
-
     <fragment
         android:id="@+id/error_fragment"
         android:name="com.example.weatherapp.error.ErrorFragment"
         tools:layout="@layout/fragment_error">
         <action
             android:id="@+id/action_error_fragment_to_weather_fragment"
-            app:destination="@id/weather_fragment" />
+            app:destination="@id/weather_fragment"
+            app:popUpTo="@id/weather_fragment"
+            app:popUpToInclusive="true" />
     </fragment>
 
 </navigation>

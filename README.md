@@ -3,7 +3,7 @@
 Weather app which shows the current weather and forecast for the coming 4 days.
 Using apixu API
 
-<a href="https://imgflip.com/gif/344afx"><img src="https://i.imgflip.com/344afx.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3450kf"><img src="https://i.imgflip.com/3450kf.gif" title="made at imgflip.com"/></a>
 
 ## Usage
 
