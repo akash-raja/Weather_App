@@ -1,4 +1,4 @@
-package com.example.weatherapp
+package com.example.weatherapp.weatherinfo
 
 open class Event<out T>(private val content: T) {
 

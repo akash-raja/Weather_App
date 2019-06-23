@@ -3,7 +3,6 @@ package com.example.weatherapp.weatherinfo
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.weatherapp.BuildConfig
-import com.example.weatherapp.Event
 import com.example.weatherapp.api.GetDataService
 import com.example.weatherapp.model.WeatherDetails
 import com.example.weatherapp.uistate.Forecast

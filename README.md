@@ -8,7 +8,7 @@ Using apixu API
 ## Usage
 
 You need to supply API keys for apixu in order to use this application
-When you obtain the key, you can provide them to the app by putting the following in the gradle.properties file in your user home:
+When you obtain the key, you can provide it to the app by putting the following in the gradle.properties file in your user home:
 
 ```
 APIXU_API_KEY=<insert-key-here>
