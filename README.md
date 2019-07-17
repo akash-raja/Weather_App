@@ -1,6 +1,6 @@
 # Weather App
 
-Weather app which shows the current weather and forecast for the coming 4 days.
+Weather app which shows the current weather and forecast for the coming 4 days. Currently lat & long values are hardcoded.
 Using apixu API
 
 <a href="https://imgflip.com/gif/3450kf"><img src="https://i.imgflip.com/3450kf.gif" title="made at imgflip.com"/></a>
