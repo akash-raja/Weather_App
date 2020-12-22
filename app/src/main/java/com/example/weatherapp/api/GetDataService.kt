@@ -14,3 +14,7 @@ interface GetDataService {
     @GET("forecast.json")
     fun getWeatherUpdate(@Query("key") key: String, @Query("days") days: String = NO_OF_DAYS, @Query("q") latLong: String = LatLong.getLocation()): Observable<WeatherDetails>
 }
+
+//Test1
+//Test2
+//Test3
